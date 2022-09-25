@@ -1,3 +1,13 @@
+
+
+# custom
+*.out
+api-template/__pycache__/
+api-template/remotelogger/__pycache__/
+test/__pycache__/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
